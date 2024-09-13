@@ -1,0 +1,33 @@
+td, th{
+    border: 2px solid;
+}
+.table {
+    width: 100%;
+    border: 2px;
+    background-color: gray;
+}
+.image{
+    background-image: url('../../Atividade1/img/joao.jpg');
+    background-size: cover;
+    height: 70px;
+}
+.Empresa{
+    background-color: black;
+    color: aliceblue;
+}
+.Avançar{
+    background-color: rgb(212, 13, 155);
+    color: aliceblue;
+}
+.Starter{
+    background-color: rgb(22, 238, 18);
+    color: aliceblue;
+}
+.Plano{
+    border: 150px;
+    background-color: blue;
+    padding: 10%;
+}
+.cinza{
+    background-color: rgb(103, 103, 103)  ;
+}
